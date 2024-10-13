@@ -1,8 +1,8 @@
 # 📊 Adidas Sales Report - Data Analysis
 
-Welcome to the Adidas Sales Report repository! This project is designed to analyze Adidas sales data using Excel. The data analysis includes customer insights, product performance, and a summary of sales metrics.
+Welcome to my first project in my career to learning Data analysis and data science. Adidas Sales Report , This project is designed to analyze Adidas sales data using Excel. The data analysis includes customer insights, product performance, and a summary of sales metrics.
 
-![Demo GIF](./images/demo.gif) <!-- Add the demo GIF here -->
+![Demo GIF](adidas_sales.png) <!-- Add the demo GIF here -->
 
 
 
